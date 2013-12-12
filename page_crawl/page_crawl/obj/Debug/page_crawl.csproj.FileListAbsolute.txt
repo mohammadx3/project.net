@@ -1,0 +1,9 @@
+c:\users\mohammad m. abbas\documents\visual studio 2012\Projects\page_crawl\page_crawl\bin\Debug\page_crawl.exe.config
+c:\users\mohammad m. abbas\documents\visual studio 2012\Projects\page_crawl\page_crawl\bin\Debug\page_crawl.exe
+c:\users\mohammad m. abbas\documents\visual studio 2012\Projects\page_crawl\page_crawl\bin\Debug\page_crawl.pdb
+c:\users\mohammad m. abbas\documents\visual studio 2012\Projects\page_crawl\page_crawl\obj\Debug\page_crawl.csprojResolveAssemblyReference.cache
+c:\users\mohammad m. abbas\documents\visual studio 2012\Projects\page_crawl\page_crawl\obj\Debug\page_crawl.exe
+c:\users\mohammad m. abbas\documents\visual studio 2012\Projects\page_crawl\page_crawl\obj\Debug\page_crawl.pdb
+C:\Users\Mohammad M. Abbas\Documents\Visual Studio 2012\Projects\page_crawl\page_crawl\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mohammad M. Abbas\Documents\Visual Studio 2012\Projects\page_crawl\page_crawl\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mohammad M. Abbas\Documents\Visual Studio 2012\Projects\page_crawl\page_crawl\bin\Debug\HtmlAgilityPack.xml
